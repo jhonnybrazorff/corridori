@@ -1,3 +1,4 @@
+package com.moon.thread;
 /**
  * Classe principale dell'applicazione.
  *

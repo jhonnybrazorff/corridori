@@ -1,3 +1,4 @@
+package com.moon.thread;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
